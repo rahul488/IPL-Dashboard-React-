@@ -1,0 +1,15 @@
+.google_login {
+  width: 100%;
+  background-color: yellow;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  .logo {
+    font-size: 2rem;
+  }
+}

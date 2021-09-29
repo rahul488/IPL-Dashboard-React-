@@ -1,0 +1,21 @@
+.login_page {
+  height: 80vh;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .login_form {
+    width: 400px;
+    background-color: bisque;
+    padding: 2rem 2rem;
+    .input_box {
+      height: 2.5rem;
+      width: 100%;
+    }
+    .btn {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35%;
+  .nav_link {
+    text-decoration: none;
+    padding: 0 2rem;
+  }
+  .nav_text:hover {
+    color: green;
+  }
+  .nav_text {
+    color: white;
+    text-decoration: none;
+  }
+}

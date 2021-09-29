@@ -1,0 +1,38 @@
+.teamPage {
+  .name {
+    color: wheat;
+    font-size: 2.3rem;
+  }
+  .latest_match {
+    color: wheat;
+    font-size: 1rem;
+  }
+  .match_small_card {
+    margin: 1.2rem 0px;
+    .small_card {
+      padding: 5px 5px;
+    }
+    .more {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .more_link {
+        font-size: 1.3rem;
+      }
+    }
+  }
+  .graph {
+    display: flex;
+    justify-content: flex-end;
+
+    .win_loss {
+      color: wheat;
+      font-size: 1.2rem;
+    }
+    .pie-chart {
+      height: 10rem;
+      width: 10rem;
+    }
+  }
+}

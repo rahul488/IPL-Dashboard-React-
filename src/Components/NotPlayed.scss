@@ -1,0 +1,14 @@
+.not_played {
+  margin: 5rem 2rem;
+  height: 300px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  background-color: rgb(77, 46, 46);
+  .heading {
+    text-align: center;
+    color: white;
+  }
+}
